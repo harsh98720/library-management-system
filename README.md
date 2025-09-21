@@ -26,4 +26,4 @@ A Library Management System built with **Python** and **PostgreSQL** to manage b
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-link>
+git clone [<your-repo-link>](https://github.com/harsh98720/library-management-system.git)
